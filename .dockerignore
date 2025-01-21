@@ -1,0 +1,5 @@
+build/
+.git
+*.log
+node_modules/
+*.tmp
